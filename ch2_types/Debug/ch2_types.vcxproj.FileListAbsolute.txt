@@ -1,0 +1,2 @@
+C:\Users\Alan\source\repos\ch2_types\Debug\ch2_types.exe
+C:\Users\Alan\source\repos\ch2_types\Debug\ch2_types.pdb

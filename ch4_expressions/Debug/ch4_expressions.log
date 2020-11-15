@@ -1,0 +1,9 @@
+﻿  expressions.cpp
+C:\Users\Alan\source\repos\ch4_expressions\expressions.cpp(70,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Alan\source\repos\ch4_expressions\expressions.cpp(72,7): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Alan\source\repos\ch4_expressions\expressions.cpp(81,8): warning C4101: 'pval': unreferenced local variable
+C:\Users\Alan\source\repos\ch4_expressions\expressions.cpp(194): error C4700: uninitialized local variable 'pc' used
+C:\Users\Alan\source\repos\ch4_expressions\expressions.cpp(199): error C4700: uninitialized local variable 'cp' used
+C:\Users\Alan\source\repos\ch4_expressions\expressions.cpp(203): error C4700: uninitialized local variable 'ip' used
+C:\Users\Alan\source\repos\ch4_expressions\expressions.cpp(215): error C4700: uninitialized local variable 'ps' used
+C:\Users\Alan\source\repos\ch4_expressions\expressions.cpp(220): error C4700: uninitialized local variable 'pc' used

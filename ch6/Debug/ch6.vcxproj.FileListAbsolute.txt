@@ -1,0 +1,2 @@
+C:\Users\Alan\source\repos\ch6\Debug\ch6.exe
+C:\Users\Alan\source\repos\ch6\Debug\ch6.pdb

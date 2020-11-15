@@ -1,0 +1,2 @@
+C:\Users\Alan\source\repos\ch7_classes\Debug\ch7_classes.exe
+C:\Users\Alan\source\repos\ch7_classes\Debug\ch7_classes.pdb
